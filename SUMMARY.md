@@ -31,9 +31,8 @@
     * [怎么查看和修改样本量](xiu-gai-xiang-mu-zhuang-tai-ji-xiu-gai-yang-ben-liang/xiu-gai-xiang-mu-zhuang-tai/zen-yao-cha-kan-he-xiu-gai-yang-ben-liang.md)
 * [项目删除与还原](cha-kan-bao-gao-yu-shu-ju-tong-ji.md)
 * [查看报告（数据统计）](cha-kan-bao-gao-yu-shu-ju-tong-ji.md)
-  * 怎样查看数据报告
+  * [怎样查看数据报告](cha-kan-bao-gao-yu-shu-ju-tong-ji/zen-yang-cha-kan-shu-ju-bao-gao.md)
   * [报告存档（数据下载）](cha-kan-bao-gao-yu-shu-ju-tong-ji/shu-ju-xia-zai-yu-bao-gao-cun-dang.md)
-  * [怎样存档（怎样保存数据）](zen-yang-bao-cun-shu-636e-zen-yang-cun-dang.md)
 * [顾客预警](gu-ke-yu-jing.md)
 * [会员中心](hui-yuan-zhong-xin.md)
 * 满意吧企业官方微信
