@@ -34,6 +34,11 @@
   * [怎样查看数据报告](cha-kan-bao-gao-yu-shu-ju-tong-ji/zen-yang-cha-kan-shu-ju-bao-gao.md)
   * [报告存档（数据下载）](cha-kan-bao-gao-yu-shu-ju-tong-ji/shu-ju-xia-zai-yu-bao-gao-cun-dang.md)
 * [顾客预警](gu-ke-yu-jing.md)
+  * [什么是顾客预警](gu-ke-yu-jing/shi-yao-shi-gu-ke-yu-jing.md)
+  * [怎样设置预警条件](gu-ke-yu-jing/zen-yang-she-zhi-yu-jing-tiao-jian.md)
+  * [查看顾客预警内容和在线处理](gu-ke-yu-jing/cha-kan-gu-ke-yu-jing-nei-rong-he-zai-xian-chu-li.md)
+  * [什么是预警任务分配](gu-ke-yu-jing/shi-yao-shi-yu-jing-ren-wu-fen-pei.md)
+  * [官方微信查看和处理预警](gu-ke-yu-jing/guan-fang-wei-xin-cha-kan-he-chu-li-yu-jing.md)
 * [会员中心](hui-yuan-zhong-xin.md)
 * 满意吧企业官方微信
 * 浏览器设置
