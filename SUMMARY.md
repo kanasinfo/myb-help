@@ -3,13 +3,36 @@
 * [Introduction](README.md)
 * [创建问卷](chapter1.md)
   * [创建问卷](chapter1/chuang-jian-xiang-mu.md)
-  * [编辑问卷内容](chapter1/bian-ji-wen-juan-nei-rong.md)
+  * [编辑和修改问卷内容](chapter1/bian-ji-wen-juan-nei-rong.md)
     * [在哪里编辑和修改问卷](chapter1/bian-ji-wen-juan-nei-rong/bian-ji-he-xiu-gai-wen-juan-nei-rong.md)
     * [修改项目名称](chapter1/bian-ji-wen-juan-nei-rong/xiu-gai-xiang-mu-ming-cheng.md)
     * [问卷内容编辑](chapter1/bian-ji-wen-juan-nei-rong/wen-juan-nei-rong-bian-ji.md)
       * [顾客总体评价](chapter1/bian-ji-wen-juan-nei-rong/wen-juan-nei-rong-bian-ji/gu-ke-zong-ti-ping-jia.md)
       * [服务细项表现](chapter1/bian-ji-wen-juan-nei-rong/wen-juan-nei-rong-bian-ji/fu-wu-xi-xiang-biao-xian.md)
       * [服务规范评价](chapter1/bian-ji-wen-juan-nei-rong/wen-juan-nei-rong-bian-ji/fu-wu-gui-fan-ping-jia.md)
-      * 顾客之声
-      * 顾客消费习惯和背景信息
+      * [顾客之声](chapter1/bian-ji-wen-juan-nei-rong/wen-juan-nei-rong-bian-ji/gu-ke-zhi-sheng.md)
+      * [顾客消费习惯和背景信息](chapter1/bian-ji-wen-juan-nei-rong/wen-juan-nei-rong-bian-ji/gu-ke-xiao-fei-xi-guan-he-bei-jing-xin-xi.md)
+  * [查找已创建的项目](chapter1/cha-zhao-yi-chuang-jian-de-xiang-mu.md)
+  * [问卷设置](chapter1/wen-juan-she-zhi.md)
+    * [设置LOGO](chapter1/wen-juan-she-zhi/she-zhi-logo.md)
+    * [设置问卷欢迎语](chapter1/wen-juan-she-zhi/she-zhi-wen-juan-huan-ying-yu.md)
+* [问卷预览](e-e.md)
+  * 怎样生成问卷
+  * [问卷生成后，怎样让顾客访问-访问链接及二维码下载](e-e/wen-juan-sheng-cheng-hou-ff0c-zen-yang-rang-gu-ke-fang-95ee-fang-wen-lian-jie-ji-er-wei-ma-xia-zai.md)
+* [分店管理](fen-dian-guan-li.md)
+* [修改项目状态及修改样本量](xiu-gai-xiang-mu-zhuang-tai-ji-xiu-gai-yang-ben-liang.md)
+  * [修改项目状态](xiu-gai-xiang-mu-zhuang-tai-ji-xiu-gai-yang-ben-liang/xiu-gai-xiang-mu-zhuang-tai.md)
+  * [修改样本量](xiu-gai-xiang-mu-zhuang-tai-ji-xiu-gai-yang-ben-liang/xiu-gai-yang-ben-liang.md)
+    * 什么是样本量
+    * [什么是目标样本量](xiu-gai-xiang-mu-zhuang-tai-ji-xiu-gai-yang-ben-liang/xiu-gai-xiang-mu-zhuang-tai/shi-yao-shi-mu-biao-yang-ben-liang.md)
+    * 怎么查看和修改样本量
+* [项目删除与还原](cha-kan-bao-gao-yu-shu-ju-tong-ji.md)
+* [查看报告（数据统计）](cha-kan-bao-gao-yu-shu-ju-tong-ji.md)
+  * 怎样查看数据报告
+  * [报告存档（数据下载）](cha-kan-bao-gao-yu-shu-ju-tong-ji/shu-ju-xia-zai-yu-bao-gao-cun-dang.md)
+  * [怎样存档（怎样保存数据）](zen-yang-bao-cun-shu-636e-zen-yang-cun-dang.md)
+* [顾客预警](gu-ke-yu-jing.md)
+* [会员中心](hui-yuan-zhong-xin.md)
+* 满意吧企业官方微信
+* 浏览器设置
 
