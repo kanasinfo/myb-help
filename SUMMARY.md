@@ -27,9 +27,8 @@
 * [修改项目状态及修改样本量](xiu-gai-xiang-mu-zhuang-tai-ji-xiu-gai-yang-ben-liang.md)
   * [修改项目状态](xiu-gai-xiang-mu-zhuang-tai-ji-xiu-gai-yang-ben-liang/xiu-gai-xiang-mu-zhuang-tai.md)
   * [修改样本量](xiu-gai-xiang-mu-zhuang-tai-ji-xiu-gai-yang-ben-liang/xiu-gai-yang-ben-liang.md)
-    * 什么是样本量
-    * [什么是目标样本量](xiu-gai-xiang-mu-zhuang-tai-ji-xiu-gai-yang-ben-liang/xiu-gai-xiang-mu-zhuang-tai/shi-yao-shi-mu-biao-yang-ben-liang.md)
-    * 怎么查看和修改样本量
+    * [什么是样本量、目标样本量](xiu-gai-xiang-mu-zhuang-tai-ji-xiu-gai-yang-ben-liang/xiu-gai-xiang-mu-zhuang-tai/shi-yao-shi-yang-ben-liang.md)
+    * [怎么查看和修改样本量](xiu-gai-xiang-mu-zhuang-tai-ji-xiu-gai-yang-ben-liang/xiu-gai-xiang-mu-zhuang-tai/zen-yao-cha-kan-he-xiu-gai-yang-ben-liang.md)
 * [项目删除与还原](cha-kan-bao-gao-yu-shu-ju-tong-ji.md)
 * [查看报告（数据统计）](cha-kan-bao-gao-yu-shu-ju-tong-ji.md)
   * 怎样查看数据报告
