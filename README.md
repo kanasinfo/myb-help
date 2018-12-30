@@ -1,3 +1,20 @@
-# My Awesome Book
+## Introduction    **满意吧介绍**
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+满意吧是全自助的专业顾客满意度调研平台，在这里您可以简单轻松的创建不同行业的调研问卷。
+
+#### **创建问卷Tips：**
+
+1、创建一个项目：编辑项目名称、选择行业
+
+2、编辑问卷内容：选择或添加需要的题目
+
+3、下一步：问卷设置，在这里完成相关设置，比如上传企业LOGO、欢迎语等
+
+4、生成问卷
+
+将生成问卷后的访问地址或二维码展示出来，并让顾客看到；顾客访问并回答的所有题目的数据均可在本项目内的“查看报告”内访问。
+
+#### **我们已为主流浏览器做了适配，优先推荐使用谷歌浏览器（Google Chrome） 、火狐浏览器（Fire Fox）、微软Edge。**
+
+
+
