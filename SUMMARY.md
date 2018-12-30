@@ -41,5 +41,4 @@
   * [官方微信查看和处理预警](gu-ke-yu-jing/guan-fang-wei-xin-cha-kan-he-chu-li-yu-jing.md)
 * [会员中心](hui-yuan-zhong-xin.md)
 * [满意吧企业官方微信](man-yi-ba-qi-ye-guan-fang-wei-xin.md)
-* [浏览器设置](liu-lan-qi-she-zhi.md)
 
