@@ -4,11 +4,9 @@
 
 访问路径：【我的项目】，选择需修改的项目，点击【编辑问卷】-【下一步】-【STEP 4.  设置问卷结束后跳转】
 
-
-
 * #### 设置目标样本量
 
-（什么是样本量及目标样本量，请见下方说明。）
+（[什么是样本量及目标样本量](/xiu-gai-xiang-mu-zhuang-tai-ji-xiu-gai-yang-ben-liang/xiu-gai-xiang-mu-zhuang-tai/shi-yao-shi-yang-ben-liang.md)，请见下方说明。）
 
 可根据您希望达到的调研问卷数量设置目标样本量。
 
