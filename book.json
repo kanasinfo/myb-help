@@ -1,0 +1,17 @@
+{
+    "title": "满意吧帮助中心",
+    "links": {
+        "sidebar": {
+            "满意吧网站": "http://uat.manyibar.com"
+        }
+    },
+    "styles": {
+        "website": "styles/main.css"
+    },
+    "plugins": ["-search"],
+     "pluginsConfig": {
+         "theme-default": {
+             "showLevel": true
+         }
+    }
+}

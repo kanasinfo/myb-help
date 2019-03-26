@@ -1,0 +1,10 @@
+.gitbook-link,
+#book-search-input {
+    display: none !important;
+}
+.book-header h1 {
+    display: none;
+}
+a.navigation {
+    display: none;
+}
