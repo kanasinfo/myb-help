@@ -1,8 +1,7 @@
 {
-    "title": "满意吧帮助中心",
+    "title": "帮助中心",
     "links": {
         "sidebar": {
-            "满意吧网站": "http://uat.manyibar.com"
         }
     },
     "styles": {
